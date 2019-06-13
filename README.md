@@ -1,7 +1,7 @@
 # Image Finder
 
 ## Brief
-We would like to build a JS application that displayes images fetched from an external service.
+We would like to build a JS application that displays images fetched from an external service.
 
 A basic service would have the following functionalities:
 - Ability to fetch data from an external image searching API
