@@ -3,13 +3,17 @@
 ## Brief
 We would like to build a JS application that displays images fetched from an external service.
 
-A basic service would have the following functionalities:
-- Ability to fetch data from an external image searching API
-- Transform and filter the data
-- Display on the page
+The tasks is to create a fullstack system.
 
-We could plan to extend the service by introducing:
-- Add test coverage or implementing directly a TDD approach
+Backend:
+- Create an HTTP server with any framework of choice
+- Fetch data from an external image searching API
+- Transform and filter the data
+- Expose a list of URLs to be fetched by the FE
+
+Frontend:
+- Fetch data from the backend
+- Display data using React
 
 For the purpose of this exercise, the external API will be NASA's media searching API
 
