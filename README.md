@@ -1,17 +1,14 @@
 # Image Finder
 
 ## Brief
-We would like to build a JS application that displays images fetched from an external service.
+The Aim of the task is to create a system that displays images fetched from an external service.
+The Backend gets the data, transforms it, and exposes to the Frontend. The Frontend shows the images using React.
 
-The tasks is to create a fullstack system.
+Tasks - Backend:
+- Create an HTTP server that fetches data from an external API
+- Expose a list of image URLs to the frontend
 
-Backend:
-- Create an HTTP server with any framework of choice
-- Fetch data from an external image searching API
-- Transform and filter the data
-- Expose a list of URLs to be fetched by the FE
-
-Frontend:
+Tasks - Frontend:
 - Fetch data from the backend
 - Display data using React
 
